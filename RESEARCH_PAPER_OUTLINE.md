@@ -8,7 +8,7 @@
 - **Artifacts-not-arguments:** the paper IS the artifact; the post points to it. Claims are narrow and falsifiable.
 - **Earned, not declared:** state the EA mindset *once* up front (lens, not label); let scope prove it; never repeat it flat.
 - **Convergence ≠ equivalence:** almost every component is borrowed and cited as such; claim only the arrangement + the honesty. Crowded, funded lane (NANDA et al.) — never "I solved agent coordination."
-- **Story-yes / source-no:** sanitize §"on your disk" — no axion-os Law numbers, `CONSTITUTION.md`, or `agentic-prd-factory` node names. Keep keel/README (already public) generic.
+- **Story-yes / source-no:** sanitize §"on your disk" — no private internal repo, constitution, or node names. Keep public repos (keel/README) generic.
 - **Mystique:** the live triage system surfaces as proof, not a product pitch; one specific claim then stop.
 - **No scores, no medical, no aging-year counts.** Primary sources cited (Douceur, Lamport, EigenTrust, Delphi, proper scoring rules, randomness beacon).
 

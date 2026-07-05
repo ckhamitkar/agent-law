@@ -143,7 +143,7 @@ def main():
  NOT a safety claim:
    - These are models of the documented mechanisms, chosen to expose the Seam 7
      dependency honestly -- not evidence the deployed system is safe. The deployed
-     proof is the afternoon wiring over agentic-prd-factory; this is the math that
+     proof is the afternoon wiring over a reference agentic pipeline; this is the math that
      tells you what that wiring can and cannot promise.
 """)
 
