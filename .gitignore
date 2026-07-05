@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+.DS_Store
+.venv/
+.pytest_cache/
+
+# internal working memos — kept local, excluded from the public repo
+post_draft.md
+branding/three_houses_brief.md

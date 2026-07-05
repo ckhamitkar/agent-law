@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#1E6E6A"/></marker>
+    <marker id="arrG" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#A8763B"/></marker>
+  </defs>
+  <rect width="1280" height="720" fill="#FAFAF8"/>
+  <text x="80" y="84" font-size="20" letter-spacing="3" fill="#1E6E6A">TARGET STATE</text>
+  <text x="80" y="140" font-size="48" font-weight="700" fill="#23231F">A first-class object: the Synthetic Actor.</text>
+
+  <!-- core rule -->
+  <rect x="80" y="180" width="1120" height="74" rx="12" fill="#1E6E6A"/>
+  <text x="640" y="227" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">Govern the ephemeral through the persistent.</text>
+
+  <!-- PROVENANCE (persistent) -->
+  <rect x="80" y="296" width="1120" height="120" rx="12" fill="#EFEFEA" stroke="#CFCFC8" stroke-width="2"/>
+  <text x="116" y="338" font-size="15" letter-spacing="2" fill="#8A8A80">PROVENANCE&#160;&#160;—&#160;&#160;PERSISTENT</text>
+  <text x="116" y="380" font-size="25" font-weight="700" fill="#23231F">the principal&#160;&#160;·&#160;&#160;the canon&#160;&#160;·&#160;&#160;the liability</text>
+  <text x="116" y="404" font-size="16" font-style="italic" fill="#9A9A90">accountable. it persists. it can be held.</text>
+
+  <!-- arrows -->
+  <line x1="360" y1="420" x2="360" y2="486" stroke="#1E6E6A" stroke-width="3" marker-end="url(#arr)"/>
+  <text x="384" y="460" font-size="17" fill="#1E6E6A">capability &#8595;</text>
+  <line x1="920" y1="486" x2="920" y2="420" stroke="#A8763B" stroke-width="3" marker-end="url(#arrG)"/>
+  <text x="700" y="460" text-anchor="end" font-size="17" fill="#A8763B">&#8593; accountability</text>
+
+  <!-- INSTANCE (ephemeral) -->
+  <rect x="80" y="492" width="1120" height="120" rx="12" fill="#F4F4F0" stroke="#DADAD3" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="116" y="534" font-size="15" letter-spacing="2" fill="#8A8A80">INSTANCE&#160;&#160;—&#160;&#160;EPHEMERAL</text>
+  <text x="116" y="576" font-size="25" font-weight="700" fill="#23231F">capability on loan&#160;&#160;·&#160;&#160;the soma</text>
+  <text x="116" y="600" font-size="16" font-style="italic" fill="#9A9A90">spun up, acts, gone &#8212; governed, never trusted on its own.</text>
+
+  <text x="80" y="666" font-size="22" fill="#55554E">One law makes it enforceable: <tspan font-weight="700" fill="#23231F">no agent acts without a liable principal behind it.</tspan></text>
+  <text x="1200" y="700" text-anchor="end" font-size="16" letter-spacing="1" fill="#9A9A90">&#9875;&#160;&#160;agent law&#160;&#160;·&#160;&#160;4</text>
+</svg>

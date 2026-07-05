@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect width="1280" height="720" fill="#FAFAF8"/>
+  <rect x="0" y="0" width="14" height="720" fill="#1E6E6A"/>
+  <text x="80" y="300" font-size="20" letter-spacing="3" fill="#1E6E6A">ENTERPRISE ARCHITECTURE&#160;&#160;·&#160;&#160;TARGET STATE</text>
+  <text x="76" y="412" font-size="96" font-weight="700" fill="#23231F">Agent Law</text>
+  <text x="80" y="470" font-size="29" fill="#55554E">Giving the autonomous agent a governed home in the enterprise metamodel.</text>
+  <line x1="80" y1="540" x2="430" y2="540" stroke="#CFCFC8" stroke-width="2"/>
+  <text x="80" y="582" font-size="22" fill="#8A8A80">Baseline&#160;&#160;&#8594;&#160;&#160;Target&#160;&#160;&#8594;&#160;&#160;the Unlock</text>
+  <text x="1200" y="680" text-anchor="end" font-size="16" letter-spacing="1" fill="#9A9A90">&#9875;&#160;&#160;agent law</text>
+</svg>

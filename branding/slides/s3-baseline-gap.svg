@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#1E6E6A" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="#FAFAF8"/>
+  <text x="80" y="84" font-size="20" letter-spacing="3" fill="#1E6E6A">BASELINE&#160;&#160;·&#160;&#160;CURRENT STATE</text>
+  <text x="80" y="140" font-size="48" font-weight="700" fill="#23231F">EA models the act. Not the answer.</text>
+
+  <!-- what the metamodel ALREADY holds (concede) -->
+  <text x="84" y="196" font-size="15" letter-spacing="2" fill="#8A8A80">WHAT THE METAMODEL ALREADY HOLDS</text>
+  <rect x="80" y="210" width="1120" height="158" rx="12" fill="#EFEFEA" stroke="#CFCFC8" stroke-width="2"/>
+  <text x="116" y="252" font-size="22" font-weight="700" fill="#23231F">ACTIVE STRUCTURE</text>
+  <text x="116" y="280" font-size="17" fill="#55554E">one aspect, across layers &#8212; the subjects that perform behavior</text>
+  <rect x="116" y="300" width="300" height="50" rx="10" fill="#FFFFFF" stroke="#CFCFC8" stroke-width="1.5"/>
+  <text x="266" y="332" text-anchor="middle" font-size="18" font-weight="600" fill="#23231F">BUSINESS ACTOR</text>
+  <rect x="436" y="300" width="360" height="50" rx="10" fill="#FFFFFF" stroke="#CFCFC8" stroke-width="1.5"/>
+  <text x="616" y="332" text-anchor="middle" font-size="18" font-weight="600" fill="#23231F">APPLICATION COMPONENT</text>
+  <text x="820" y="320" font-size="14" fill="#8A8A80">both act &#183; bound by</text>
+  <text x="820" y="340" font-size="14" fill="#8A8A80">an assignment relationship</text>
+  <rect x="900" y="224" width="282" height="40" rx="20" fill="#1E6E6A" filter="url(#soft)"/>
+  <text x="1041" y="250" text-anchor="middle" font-size="15" fill="#FFFFFF">&#9650;&#160;&#160;AI AGENT fits here &#8212; natively</text>
+
+  <!-- what it has NEVER held (the real gap) -->
+  <text x="84" y="424" font-size="15" letter-spacing="2" fill="#B06A3A">WHAT IT HAS NEVER HELD &#8212; FOR ANY ACTOR</text>
+  <rect x="80" y="438" width="1120" height="158" rx="12" fill="#FBF6F1" stroke="#D9A878" stroke-width="2" stroke-dasharray="10 8"/>
+  <text x="116" y="492" font-size="26" font-weight="700" fill="#9A5A2C">LEGAL ANSWERABILITY</text>
+  <text x="116" y="528" font-size="19" fill="#7A5A3E">who is liable when the act causes harm?</text>
+  <text x="116" y="560" font-size="16" fill="#A07A55">EA &#8220;responsibility&#8221; = who does the work &#8212; never who answers for it.</text>
+  <text x="1160" y="524" text-anchor="end" font-size="60" font-weight="700" fill="#E7CBAE">&#8709;</text>
+  <text x="1160" y="556" text-anchor="end" font-size="14" letter-spacing="1" fill="#C39A6E">no object</text>
+
+  <text x="80" y="654" font-size="22" fill="#55554E">The gap was never actor-vs-component &#8212; it&#8217;s that nothing names <tspan font-style="italic">who answers</tspan> for the harm.</text>
+  <text x="1200" y="694" text-anchor="end" font-size="16" letter-spacing="1" fill="#9A9A90">&#9875;&#160;&#160;agent law&#160;&#160;·&#160;&#160;3</text>
+</svg>
