@@ -108,6 +108,13 @@ The rest of this body of law builds out from the object and the core move:
 
 **Extracted library** — the IAM code above, cleaned into a standalone, self-contained package with its own docs: **[ckhamitkar/agentic-iam](https://github.com/ckhamitkar/agentic-iam)**.
 
+## License
+
+Dual-licensed to fit a repo that is part writing, part code:
+
+- **The written work** — the doctrine, [`RESEARCH_PAPER.md`](RESEARCH_PAPER.md), all Markdown, and the branding graphics — is licensed **[CC BY 4.0](LICENSE)**: reuse and adapt freely, with attribution.
+- **The code** — everything under [`experiments/`](experiments/) — is licensed **[MIT](experiments/LICENSE)**.
+
 ---
 
 *Agent Law was drafted by a person and an agent, together — itself a small instance of the thing it describes. One is the provenance: persistent, accountable, the will behind the canon. One is the instance: ephemeral, capability on loan, its contribution kept in the chronicle. The arrangement is the point.*
